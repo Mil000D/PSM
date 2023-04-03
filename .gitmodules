@@ -1,0 +1,12 @@
+[submodule "Project1PSM"]
+	path = Project1PSM
+	url = git@github.com:MiloDem000n/Project1PSM.git
+[submodule "Project2PSM"]
+	path = Project2PSM
+	url = git@github.com:MiloDem000n/Project2PSM.git
+[submodule "Project3PSM"]
+	path = Project3PSM
+	url = git@github.com:MiloDem000n/Project3PSM.git
+[submodule "Project4PSM"]
+	path = Project4PSM
+	url = git@github.com:MiloDem000n/Project4PSM.git
