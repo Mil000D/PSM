@@ -10,3 +10,12 @@
 [submodule "Project4PSM"]
 	path = Project4PSM
 	url = git@github.com:MiloDem000n/Project4PSM.git
+[submodule "Project5PSM"]
+	path = Project5PSM
+	url = git@github.com:MiloDem000n/Project5PSM.git
+[submodule "Project6PSMJava"]
+	path = Project6PSMJava
+	url = git@github.com:MiloDem000n/Project6PSMJava.git
+[submodule "Project6PSMPython"]
+	path = Project6PSMPython
+	url = git@github.com:MiloDem000n/Project6PSMPython.git
