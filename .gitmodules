@@ -19,3 +19,15 @@
 [submodule "Project6PSMPython"]
 	path = Project6PSMPython
 	url = git@github.com:MiloDem000n/Project6PSMPython.git
+[submodule "Project7PSM"]
+	path = Project7PSM
+	url = git@github.com:Mil000D/Project7PSM.git
+[submodule "Project8PSM"]
+	path = Project8PSM
+	url = git@github.com:Mil000D/GameOfLife.git
+[submodule "Project9PSM"]
+	path = Project9PSM
+	url = git@github.com:Mil000D/Project9PSM.git
+[submodule "Project10PSM"]
+	path = Project10PSM
+	url = git@github.com:Mil000D/Project10PSM.git
